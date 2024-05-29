@@ -1,0 +1,29 @@
+## Python
+
+- Basics
+  - Syntax: 🖐️ used
+  - Variables: 🖐️ used
+  - Data Types: 🖐️ used
+  - Conditionals: 🖐️ used
+  - Typecasting: 🖐️ used
+  - Exceptions: 🖐️ used
+  - Functions: 🖐️ used
+  - Lists, Tuples, Sets, and Dictionaries: 🖐️ used
+- Data Structures and Algorithms
+  - Arrays: 🖐️ used
+  - Linked lists: 🎓 known
+  - Heaps Stacks and Queues: 🎓 known
+  - Hash Tables: 🎓 known
+  - Binary Search Trees: 🎓 known
+  - Recursion: 🎓 known
+  - Sorting Algorithms: 🖐️ used
+- Advanced Topics
+  - Iterators: 🎓 known
+  - Regular Expressions: 🎓 known
+  - Decorators: 🎓 known
+  - Lambdas: 🎓 known
+  - List Comprehensions: 🎓 known
+  - Generator Compressions: 🎓 known
+  - Python Paradigms: 🎓 known
+  - Classes ,Inheritance ,Methods and Dunder: 🎓 known
+  - Modules: 🎓 known
