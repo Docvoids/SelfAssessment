@@ -36,43 +36,43 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
-  - `HAVING`
-  - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
-  - `UNION`
-  - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
-  - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
-  - `CHECK`
-  - `DEFAULT`
-  - `INDEX`
-  - `UNIQUE`
-  - `GRANT`
-  - `REVOKE`
-  - `DENY`
-  - `EXPLAIN`
+  - `SELECT`: 🎓 known
+  - `INSERT`: 🎓 known
+  - `UPDATE`: 🎓 known
+  - `DELETE`: 🎓 known
+  - `LIMIT`: 🎓 known
+  - `OFFSET`: 🎓 known
+  - `ORDER BY`: 🎓 known
+  - `GROUP BY`: 🎓 known
+  - `HAVING`:👂 heard
+  - `EXISTS`:👂 heard
+  - `JOIN`:👂 heard
+  - `INNER JOIN`:👂 heard
+  - `LEFT JOIN`:👂 heard
+  - `RIGHT JOIN`:👂 heard
+  - `UNION`:👂 heard
+  - `DISTINCT`:👂 heard
+  - `WHERE`:👂 heard
+  - `LIKE`:👂 heard
+  - `IN`:👂 heard
+  - `BETWEEN`🎓 	known
+  - `CREATE TABLE`: 🎓 known
+  - `ALTER TABLE`:👂 heard
+  - `DROP TABLE`:👂 heard
+  - `PRIMARY KEY`: 🎓 known
+  - `FOREIGN KEY`: 🎓 known
+  - `CHECK`: 🎓 known
+  - `DEFAULT`:👂 heard
+  - `INDEX`: 🎓 known
+  - `UNIQUE`: 🎓 known
+  - `GRANT`:👂 heard
+  - `REVOKE`:👂 heard
+  - `DENY`:👂 heard
+  - `EXPLAIN`:👂 heard
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL: 🎓 known
   - MariaDB
   - MS SQL Server
   - Redis
@@ -81,7 +81,7 @@
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite: 🎓 known
   - DynamoDB
   - Firebase
 - Data engineering
