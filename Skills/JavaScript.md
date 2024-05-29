@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object`:👂 heard
-  - `Function`:👂 heard
-  - `Boolean`:👂 heard
-  - `Number`:👂 heard
-  - `BigInt`:👂 heard
-  - `String`:👂 heard
-  - `Symbol`:👂 heard
-  - `Infinity`:👂 heard
-  - `NaN`:👂 heard
-  - `undefined`:👂 heard
+  - `Object`: 🎓 known
+  - `Function`: 🎓 known
+  - `Boolean`: 🎓 known
+  - `Number`: 🎓 known
+  - `BigInt`: 🎓 known
+  - `String`: 🎓 known
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
   - `null`:👂 heard
-  - `this`:👂 heard
-  - `instanceof`:👂 heard
-  - `...spread`:👂 heard
-  - `...rest`:👂 heard
-  - `typeof`:👂 heard
+  - `this`: 🎓 known
+  - `instanceof`: 🎓 known
+  - `...spread`: 🎓 known
+  - `...rest`: 🎓 known
+  - `typeof`: 🎓 known
   - Destructuring
   - Generators
   - Iterators
@@ -59,19 +59,19 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`:👂 heard
-  - `while`:👂 heard
-  - `do..while`:👂 heard
-  - `for`:👂 heard
-  - `for..in`:👂 heard
-  - `for..of`:👂 heard
-  - `for await`:👂 heard
-  - `throw`:👂 heard
-  - `break`:👂 heard
-  - `continue`:👂 heard
-  - `import`:👂 heard
-  - `export`:👂 heard
-  - `label`:👂 heard
+  - `if`: 🎓 known
+  - `while`: 🎓 known
+  - `do..while`: 🎓 known
+  - `for`: 🎓 known
+  - `for..in`: 🎓 known
+  - `for..of`: 🎓 known
+  - `for await`: 🎓 known
+  - `throw`: 🎓 known
+  - `break`: 🎓 known
+  - `continue`: 🎓 known
+  - `import`: 🎓 known
+  - `export`: 🎓 known
+  - `label`: 🎓 known
   - `try..catch`
   - `switch`
   - `class`
@@ -90,9 +90,9 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array`: 🎓 known
+  - `Map`: 🎓 known
+  - `Set`: 🎓 known
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
