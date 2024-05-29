@@ -1,21 +1,21 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
+  - Model: 🖐️ used
+  - Modeling: 🖐️ used
+  - Subject domain: 🖐️ used
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
   - Semantics
   - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
+  - Paradigm: 🖐️ used
+  - Programm: 🖐️ used
+  - Programming paradigm: 🖐️ used
+  - Programming language: 🖐️ used
+  - Contract: 🖐️ used
+  - Module: 🖐️ used
+  - Library: 🖐️ used
+  - Package: 🖐️ used
   - Component
   - Framework
   - Platform
@@ -32,18 +32,18 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar:👂 heard
+  - Literal:👂 heard
   - Expression
-  - Heap
-  - Function
+  - Heap: 🖐️ used
+  - Function: 🖐️ used
   - Procedure
   - Method
-  - Class
+  - Class: 🖐️ used
   - Prototype
   - Event
   - Type
@@ -66,27 +66,27 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types:👂 heard
+  - Reference types:👂 heard
   - Type systems
   - Strong typing
   - Weak typing
   - Duck typing
-  - Static typing
-  - Dynamic typing
-  - Nominal typing
-  - Structural typing
-  - Explicit typing
+  - Static typing:👂 heard
+  - Dynamic typing:👂 heard
+  - Nominal typing:👂 heard
+  - Structural typing:👂 heard
+  - Explicit typing:👂 heard
   - Type inference
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
+  - Signature:🖐️ 	used
+  - Argument:🖐️ 	used
+  - Parameter:🖐️ 	used
+  - Pure function:👂 heard
+  - Lambda expression:👂 heard
+  - Side effects:👂 heard
   - Closure
   - Partial application
   - Currying
@@ -105,16 +105,16 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
+  - Array:🖐️ 	used
+  - Structure:🖐️ 	used
+  - Record:🖐️ 	used
+  - Enum:🖐️ 	used
+  - Instance:🖐️ 	used
+  - Object:👂 heard
+  - Collection:👂 heard
+  - Set:👂 heard
   - Hash table
-  - Linked list
+  - Linked list:👂 heard
   - Doubly list
   - Unrolled list
   - Circular list
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux: 🎓 known
+  - Unix: 🎓 known
   - BSD
-  - MacOS
-  - Windows
+  - MacOS: 🎓 known
+  - Windows: 🎓 known
   - Real-time OS
   - Embedded OS
 - Standards
