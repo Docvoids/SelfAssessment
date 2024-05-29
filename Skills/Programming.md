@@ -150,9 +150,9 @@
   - Polyfill
   - Interpreter
   - Linker
-  - Dynamic linking
-  - Static linking
-  - Runtime
+  - Dynamic linking: 🎓 known
+  - Static linking: 🎓 known
+  - Runtime: 🎓 known
   - Virtual machine
   - Register-based VM
   - Stack-based VM
@@ -161,29 +161,29 @@
   - Tracing
   - Garbage collection
   - Refactoring
-  - Code review
+  - Code review: 🎓 known
   - Exception
   - Unittesting
-  - git
-  - Github
-  - Docker
+  - git: 🎓 known
+  - Github: 🎓 known
+  - Docker: 🎓 known
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
-  - Improbability factor
-  - Accidental complexity
-  - Action at a distance
-  - Spaghetti
-  - Silver bullet
+  - Magic numbers: 🎓 known
+  - Hard code: 🎓 known
+  - Soft code: 🎓 known
+  - Cryptic code: 🎓 known
+  - Improbability factor: 🎓 known
+  - Accidental complexity: 🎓 known
+  - Action at a distance: 🎓 known
+  - Spaghetti: 🎓 known
+  - Silver bullet: 🎓 known
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code: 🎓 known
+  - Unreachable code: 🎓 known
+  - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
   - Nested loops
