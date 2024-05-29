@@ -1,29 +1,37 @@
 ## Python
 
 - Basics
-  - Syntax: 🖐️ used
-  - Variables: 🖐️ used
-  - Data Types: 🖐️ used
-  - Conditionals: 🖐️ used
-  - Typecasting: 🖐️ used
-  - Exceptions: 🖐️ used
-  - Functions: 🖐️ used
-  - Lists, Tuples, Sets, and Dictionaries: 🖐️ used
+  - Syntax: 📢 	talked
+  - Variables: 📢 	talked
+  - Data Types: 📢 	talked
+  - Conditionals: 📢 	talked
+  - Typecasting: 📢 	talked
+  - Exceptions: 📢 	talked
+  - Functions: 📢 	talked
+  - Lists, Tuples, Sets, and Dictionaries: 📢 	talked
 - Data Structures and Algorithms
   - Arrays: 🖐️ used
-  - Linked lists: 🎓 known
-  - Heaps Stacks and Queues: 🎓 known
+  - Linked lists: 🖐️ used
+  - Heaps Stacks and Queues: 🖐️ used
   - Hash Tables: 🎓 known
-  - Binary Search Trees: 🎓 known
-  - Recursion: 🎓 known
+  - Binary Search Trees: 🖐️ used
+  - Recursion: 🖐️ used
   - Sorting Algorithms: 🖐️ used
 - Advanced Topics
-  - Iterators: 🎓 known
+  - Iterators: 📢 	talked
   - Regular Expressions: 🎓 known
-  - Decorators: 🎓 known
-  - Lambdas: 🎓 known
+  - Decorators: 🖐️ used
+  - Lambdas: 🖐️ used
   - List Comprehensions: 🎓 known
-  - Generator Compressions: 🎓 known
-  - Python Paradigms: 🎓 known
-  - Classes ,Inheritance ,Methods and Dunder: 🎓 known
-  - Modules: 🎓 known
+  - Generator Compressions: 🖐️ used
+  - Python Paradigms: 🖐️ used
+  - Classes ,Inheritance ,Methods and Dunder: 🖐️ used
+  - Modules: 🖐️ used
+-Moduls:
+  - tkinter: 🖐️ used
+  - os: 🖐️ used
+  - PyQT5: 🖐️ used
+  - sqlite3: 📢 	talked
+  - math: 🖐️ used
+  - turtle: 📢 	talked
+  - pygame: 🖐️ used
