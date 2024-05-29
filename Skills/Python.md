@@ -28,10 +28,10 @@
   - Classes ,Inheritance ,Methods and Dunder: 🖐️ used
   - Modules: 🖐️ used
 -Moduls:
-  -tkinter: 🖐️ used
-  -os: 🖐️ used
-  -PyQT5: 🖐️ used
-  -sqlite3: 📢 	talked
-  -math: 🖐️ used
-  -turtle: 📢 	talked
-  -pygame: 🖐️ used
+  - tkinter: 🖐️ used
+  - os: 🖐️ used
+  - PyQT5: 🖐️ used
+  - sqlite3: 📢 	talked
+  - math: 🖐️ used
+  - turtle: 📢 	talked
+  - pygame: 🖐️ used
