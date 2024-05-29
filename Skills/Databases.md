@@ -36,31 +36,31 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`: 🎓 known
-  - `INSERT`: 🎓 known
-  - `UPDATE`: 🎓 known
-  - `DELETE`: 🎓 known
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
   - `LIMIT`: 🎓 known
   - `OFFSET`: 🎓 known
-  - `ORDER BY`: 🎓 known
-  - `GROUP BY`: 🎓 known
-  - `HAVING`:👂 heard
-  - `EXISTS`:👂 heard
-  - `JOIN`:👂 heard
-  - `INNER JOIN`:👂 heard
-  - `LEFT JOIN`:👂 heard
-  - `RIGHT JOIN`:👂 heard
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🖐️ used
+  - `HAVING`: 🎓 known
+  - `EXISTS`: 🎓 known
+  - `JOIN`: 🎓 known
+  - `INNER JOIN`: 🎓 known
+  - `LEFT JOIN`: 🎓 known
+  - `RIGHT JOIN`: 🎓 known
   - `UNION`:👂 heard
   - `DISTINCT`:👂 heard
   - `WHERE`:👂 heard
   - `LIKE`:👂 heard
   - `IN`:👂 heard
   - `BETWEEN`🎓 	known
-  - `CREATE TABLE`: 🎓 known
+  - `CREATE TABLE`: 🖐️ used
   - `ALTER TABLE`:👂 heard
   - `DROP TABLE`:👂 heard
-  - `PRIMARY KEY`: 🎓 known
-  - `FOREIGN KEY`: 🎓 known
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
   - `CHECK`: 🎓 known
   - `DEFAULT`:👂 heard
   - `INDEX`: 🎓 known
@@ -68,7 +68,7 @@
   - `GRANT`:👂 heard
   - `REVOKE`:👂 heard
   - `DENY`:👂 heard
-  - `EXPLAIN`:👂 heard
+  - `EXPLAIN`: 🖐️ used
 - Engines
   - PostgreSQL
   - Oracle
