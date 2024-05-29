@@ -1,27 +1,27 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
+  - `Object`:👂 heard
+  - `Function`:👂 heard
+  - `Boolean`:👂 heard
+  - `Number`:👂 heard
+  - `BigInt`:👂 heard
+  - `String`:👂 heard
+  - `Symbol`:👂 heard
+  - `Infinity`:👂 heard
+  - `NaN`:👂 heard
+  - `undefined`:👂 heard
+  - `null`:👂 heard
+  - `this`:👂 heard
+  - `instanceof`:👂 heard
+  - `...spread`:👂 heard
+  - `...rest`:👂 heard
+  - `typeof`:👂 heard
   - Destructuring
   - Generators
   - Iterators
   - Async generator
-  - Async iterator
+  - Async iterator:👂 heard
   - Chaining
   - Optional chaining
   - IIFE
@@ -59,19 +59,19 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
+  - `if`:👂 heard
+  - `while`:👂 heard
+  - `do..while`:👂 heard
+  - `for`:👂 heard
+  - `for..in`:👂 heard
+  - `for..of`:👂 heard
+  - `for await`:👂 heard
+  - `throw`:👂 heard
+  - `break`:👂 heard
+  - `continue`:👂 heard
+  - `import`:👂 heard
+  - `export`:👂 heard
+  - `label`:👂 heard
   - `try..catch`
   - `switch`
   - `class`
